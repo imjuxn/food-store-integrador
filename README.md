@@ -4,9 +4,7 @@ Estudiante: Juan Silva.
 
 Repositorio público: https://github.com/imjuxn/food-store-integrador
 
-Video de demostración (10 a 15 minutos): **PENDIENTE DE GRABAR Y ENLAZAR**.
-
-> Antes de entregar: reemplazar la línea del video por un enlace público real. No incluir el archivo de video dentro del ZIP.
+Video de demostración: [Ver video en YouTube](https://youtu.be/FyJ9HOCNjGU).
 
 ## Funcionalidades
 
